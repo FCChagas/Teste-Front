@@ -24,7 +24,7 @@ A página precisa ter as seguintes funcionalidades:<br>
     - Exclusão<br>
 - Apresentar a lista de clientes salvos na base de dados em uma tabela, podendo filtrar na lista pelo nome e cpf.<br>
 - Validação de campos como CPF e data de nascimento (obrigatório).<br>
-- Swagger: https://extranet.fcc.org.br/webapi/testecanditado/swagger/index.html<br>
+- Swagger: https://extranet.fcc.org.br/webapi/testecandidato/swagger/index.html<br>
 - Necessariamente fazer a comunicação com a base de dados através do consumo das APIS (Axios)<br>
 Objetivo um cadastro de cliente, preenchendo seus dados básicos e dados de endereço.<br>
 Abaixo segue campos necessários.<br>
