@@ -1,7 +1,7 @@
 # Teste-Front
 Teste Destinado aos Interessados para Vaga Front End
 # Serão Três Etapas
-1.	Criar projeto com VUE.js (Utilizar store para armazenamento de dados)
+1.	Criar projeto com VUE.js ou React.js (Utilizar store para armazenamento de dados)
 (Você não deve usar Framework CSS (Bootstrap, Tailwind, Bulma, PureCSS etc.)
 2.	Tela de Login<br>
 2.1.	Utilizar Mock Online Fake ou Arquivo JSON dentro do Projeto.
